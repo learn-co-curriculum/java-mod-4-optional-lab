@@ -89,8 +89,8 @@ a value representing the author name exists.
 Test your code with a title found in the hashmap:
 
 ```text
-Book title:Effective Java
-"Effective Java written by Joshua Bloch"
+Enter book title:Effective Java
+Effective Java written by Joshua Bloch
 ```
 
 Test your code with a title not in the hashmap:
@@ -113,8 +113,8 @@ the conditional statement with a call to `ifPresentOrElse()`.
 Test your code with a title found in the hashmap:
 
 ```text
-Book title:Effective Java
-"Effective Java written by Joshua Bloch"
+Enter book title:Effective Java
+Effective Java written by Joshua Bloch
 ```
 
 Test your code with a title not in the hashmap:
